@@ -1,10 +1,8 @@
 <template>
 	<div>
-		<Header />
-		<div class="mt-[80px]">
+		<div class="mt-[100px] xl:mt-[124px]">
 			<Billboard />
 			<Categories />
-			<div class="min-h-screen"></div>
 		</div>
 	</div>
 </template>

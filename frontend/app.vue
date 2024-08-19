@@ -4,6 +4,8 @@ import '@/assets/css/main.css';
 
 <template>
 	<main dir="rtl">
-		<NuxtPage />
+		<NuxtLayout>
+			<NuxtPage />
+		</NuxtLayout>
 	</main>
 </template>
